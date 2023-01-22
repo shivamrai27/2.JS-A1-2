@@ -1,0 +1,24 @@
+d. What is a variable. What should be kept in mind while naming a variable
+
+ans d ->  variable are used to store data. It can be declared by using var, let, const keyword 
+	  but we prefer let to use and variable should be meaningful and try to use Camel case
+Things in mind while making variable
+# Not a reserved keyword
+# Cannot start with a number
+# Cannot have a space or - (hypen)
+# Case sensitive
+
+
+
+e What is a constant. How is a constant different from a variable.
+
+ans e ->const is used make no change in variable on further in code its like making constant 
+	ex const a = 1; then is try to change the value of a it will throw an error
+
+f. What are primitive data types. Name all of them with examples.
+
+ans f. -> promitive data type are those datatype which is predefined by JS compiler not by userdefined
+	  ex. Number, String, Boolean, undefined, null
+
+
+
